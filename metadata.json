@@ -1,0 +1,6 @@
+{
+  "name": "Guber Studio",
+  "description": "Offline-first flowchart, branching dialogue, and scene writing studio with synchronized code editor and interactive canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
